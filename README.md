@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luisana</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">Passionate professional of Programming in search of professional growth, with analytical skills, incident resolution, responsible, creative, oriented to teamwork and motivation to achieve</h3>
 
 - 📫 How to reach me **luisanaviamonte@gmail.com**
 
