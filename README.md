@@ -13,4 +13,4 @@
 
 [![Luisana-hub GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisana-hub)](https://github.com/Luisana-hub/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-iaua.vercel.app/api/top-langs/?username=Luisana-hub&hide_progress=true)](https://github.com/Luisana-hub/github-readme-stats)
+[![Top Langs](https://github-readme-stats-iaua-luisana-hub.vercel.app/api/top-langs/?username=Luisana-hub&hide_progress=true)](https://github.com/Luisana-hub/github-readme-stats)
